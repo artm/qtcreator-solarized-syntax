@@ -7,7 +7,7 @@ background information.
 
 [Main Solarized repository](https://github.com/altercation/solarized).
 
-![Qt Creator with solarized (light) style](https://github.com/artm/solarized/raw/qtcreator/qtcreator-style-solarized/QtCreator.png)
+![Qt Creator with solarized (light) style](https://github.com/artm/qtcreator-solarized-syntax/raw/master/QtCreator.png)
 
 ## Notes
 
