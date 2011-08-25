@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme version="1.0" name="Solarized dark">
+  <style name="AddedLine" foreground="#859900" background="#002b36"/>
+  <style name="Comment" foreground="#586e75" background="#002b36"/>
+  <style name="CurrentLine" background="#073642"/>
+  <style name="CurrentLineNumber" foreground="#93a1a1" background="#002b36" bold="true"/>
+  <style name="DiffFile" foreground="#6c71c4" background="#002b36"/>
+  <style name="DiffLocation" foreground="#268bd2" background="#002b36"/>
+  <style name="DisabledCode" foreground="#000000" background="#002b36"/>
+  <style name="Doxygen.Comment" foreground="#586e75" background="#002b36"/>
+  <style name="Doxygen.Tag" foreground="#2aa198" background="#002b36"/>
+  <style name="Field" foreground="#d33682" background="#002b36"/>
+  <style name="Keyword" foreground="#93a1a1" background="#002b36" bold="true"/>
+  <style name="Label" foreground="#d33682" background="#002b36" italic="true"/>
+  <style name="LineNumber" foreground="#6a6864" background="#073642" bold="true"/>
+  <style name="Link" foreground="#0000ff" background="#002b36"/>
+  <style name="Local" foreground="#268bd2" background="#002b36"/>
+  <style name="Number" foreground="#6c71c4" background="#002b36"/>
+  <style name="Occurrences" foreground="#000000" background="#002b36"/>
+  <style name="Occurrences.Rename" foreground="#000000" background="#002b36"/>
+  <style name="Occurrences.Unused" foreground="#859900" background="#002b36"/>
+  <style name="Operator" foreground="#839496" background="#002b36"/>
+  <style name="Parentheses" foreground="#dc322f" background="#002b36"/>
+  <style name="Preprocessor" foreground="#cb4b16" background="#002b36" bold="true"/>
+  <style name="RemovedLine" foreground="#dc322f" background="#002b36"/>
+  <style name="SearchResult" foreground="#000000" background="#fdf6e3"/>
+  <style name="SearchScope" foreground="#000000" background="#002b36"/>
+  <style name="Selection" background="#073642"/>
+  <style name="Static" foreground="#2aa198" background="#002b36"/>
+  <style name="String" foreground="#859900" background="#002b36"/>
+  <style name="Text" foreground="#839496" background="#002b36"/>
+  <style name="Type" foreground="#b58900" background="#002b36"/>
+  <style name="VirtualMethod" foreground="#586e75" background="#002b36" italic="true"/>
+  <style name="VisualWhitespace" foreground="#c0c0c0" background="#002b36"/>
+</style-scheme>
