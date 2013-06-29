@@ -54,6 +54,18 @@ or:
 
 to install styles.
 
+For newer versions of QtCreator after aquired by Digia:
+
+Use either:
+
+    ln solarized-*.xml ~/.config/QtProject/qtcreator/styles
+
+or:
+
+    cp solarized-*.xml ~/.config/QtProject/qtcreator/styles
+
+to install styles.
+
 ### Windows
 
 On Windows XP styles should go to:
