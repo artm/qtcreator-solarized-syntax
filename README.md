@@ -46,11 +46,11 @@ time.
 
 Use either:
 
-    ln solarized-*.xml ~/.config/Nokia/qtcreator/styles
+    ln solarized-*.xml ~/.config/QtProject/qtcreator/styles
 
 or:
 
-    cp solarized-*.xml ~/.config/Nokia/qtcreator/styles
+    cp solarized-*.xml ~/.config/QtProject/qtcreator/styles
 
 to install styles.
 
@@ -70,11 +70,11 @@ to install styles.
 
 On Windows XP styles should go to:
 
-    Documents and Settings\<user name>\Application Data\Nokia\qtcreator\styles
+    Documents and Settings\<user name>\Application Data\QtProject\qtcreator\styles
 
 On Windows 7:
 
-    Users\<user name>\AppData\Roaming\Nokia\qtcreator\styles
+    Users\<user name>\AppData\Roaming\QtProject\qtcreator\styles
 
 
 
